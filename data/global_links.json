@@ -1,11 +1,14 @@
 {
-  "globalRegistry": {},
-  "appInfo": {
-    "version": "1.0.0",
-    "announcement": "SpoolTrack이 정식 출시 중입니다.",
-    "developerEmail": "help@kspooltrack.com",
-    "storeUrl": "https://brandconnect.naver.com/894042213691680/affiliate/about",
-    "lastUpdated": "2026-03-08T21:51:35.372Z"
+  "globalRegistry": {
+    "Duramic 3D PC 파랑 (블루)": {
+      "domestic": "https://link.coupang.com/a/d0eklU",
+      "taobao": ""
+    }
   },
-  "lastUpdated": "2026-03-08T21:51:35.372Z"
+  "appInfo": {
+    "announcement": "여기에 공지사항 내용을 입력하세요.\n줄바꿈(\\n)도 지원됩니다.",
+    "version": "1.0.2",
+    "lastUpdated": "2024-05-20"
+  },
+  "lastUpdated": "2026-03-08T12:43:15.208Z"
 }
