@@ -1,21 +1,18 @@
 {
-  "globalRegistry": {
-    "3DXTech Carbon Fiber #000080": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    },
-    "ANYCUBIC ABS #FF00FF": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    },
-    "Amolen ABS #000000": {
-      "domestic": "http://naver.com",
-      "taobao": "http://naver.com"
-    },
-    "ColorFabb PEI #F5F5F5": {
-      "domestic": "https://link.coupang.com/a/d0eklU",
-      "taobao": ""
-    }
+  "3DXTech Carbon Fiber #000080": {
+    "domestic": "http://naver.com",
+    "taobao": "https://link.coupang.com/a/d0eklU"
   },
-  "lastUpdated": "2026-03-08T07:31:24.032Z"
+  "ANYCUBIC ABS #FF00FF": {
+    "domestic": "http://naver.com",
+    "taobao": ""
+  },
+  "Amolen ABS #000000": {
+    "domestic": "http://naver.com",
+    "taobao": "http://naver.com"
+  },
+  "ColorFabb PEI #F5F5F5": {
+    "domestic": "https://link.coupang.com/a/d0eklU",
+    "taobao": ""
+  }
 }
