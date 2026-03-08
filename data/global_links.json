@@ -1,16 +1,11 @@
 {
-  "globalRegistry": {
-    "3DXTech PA 진검정 (블랙)": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    }
-  },
+  "globalRegistry": {},
   "appInfo": {
     "announcement": "SpoolTrack이 정식 출시 중입니다.",
     "version": "1.0.0",
-    "lastUpdated": "2026-03-08T22:04:14.983Z",
+    "lastUpdated": "2026-03-08T22:04:17.233Z",
     "developerEmail": "help@kspooltrack.com",
     "storeUrl": "https://brandconnect.naver.com/894042213691680/affiliate/about"
   },
-  "lastUpdated": "2026-03-08T22:04:14.983Z"
+  "lastUpdated": "2026-03-08T22:04:17.233Z"
 }
