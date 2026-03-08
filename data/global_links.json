@@ -1,13 +1,14 @@
 {
-  "globalRegistry": {
-    "3DXTech Carbon Fiber #000080": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    },
-    "ANYCUBIC ABS #FF00FF": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    }
+  "3DXTech Carbon Fiber #000080": {
+    "domestic": "http://naver.com",
+    "taobao": ""
   },
-  "lastUpdated": "2024-03-08T06:00:00.000Z"
+  "ANYCUBIC ABS #FF00FF": {
+    "domestic": "http://naver.com",
+    "taobao": ""
+  },
+  "Amolen ABS #000000": {
+    "domestic": "http://naver.com",
+    "taobao": ""
+  }
 }
