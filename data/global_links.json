@@ -1,14 +1,10 @@
 {
-  "globalRegistry": {
-    "Duramic 3D PC 파랑 (블루)": {
-      "domestic": "https://link.coupang.com/a/d0eklU",
-      "taobao": ""
-    }
+  "Duramic 3D PC 파랑 (블루)": {
+    "domestic": "https://link.coupang.com/a/d0eklU",
+    "taobao": ""
   },
-  "appInfo": {
-    "announcement": "여기에 공지사항 내용을 입력하세요.\n줄바꿈(\\n)도 지원됩니다.",
-    "version": "1.0.2",
-    "lastUpdated": "2024-05-20"
-  },
-  "lastUpdated": "2026-03-08T12:43:15.208Z"
+  "Bambu Lab PA 자주색 (마젠타)": {
+    "domestic": "https://link.coupang.com/a/d0eklU",
+    "taobao": ""
+  }
 }
