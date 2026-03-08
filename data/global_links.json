@@ -1,20 +1,6 @@
 {
-  "globalRegistry": {
-    "ANYCUBIC ASA 진분홍 (딥핑크)": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    },
-    "Amolen Carbon Fiber 무광 하양 (매트 화이트)": {
-      "domestic": "http://naver.com",
-      "taobao": ""
-    }
-  },
-  "appInfo": {
-    "announcement": "SpoolTrack이 정식 출시 중입니다.",
-    "version": "1.0.0",
-    "lastUpdated": "2026-03-08T22:34:22.364Z",
-    "developerEmail": "help@kspooltrack.com",
-    "storeUrl": "https://brandconnect.naver.com/894042213691680/affiliate/about"
-  },
-  "lastUpdated": "2026-03-08T22:34:22.364Z"
+  "ANYCUBIC ASA 진분홍 (딥핑크)": {
+    "domestic": "http://naver.com",
+    "taobao": ""
+  }
 }
