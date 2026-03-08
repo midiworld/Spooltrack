@@ -1,6 +1,9 @@
 {
-  "Duramic 3D PC 파랑 (블루)": {
-    "domestic": "https://link.coupang.com/a/d0eklU",
-    "taobao": ""
-  }
+  "globalRegistry": {
+    "Duramic 3D PC 파랑 (블루)": {
+      "domestic": "https://link.coupang.com/a/d0eklU",
+      "taobao": ""
+    }
+  },
+  "lastUpdated": "2026-03-08T12:43:15.208Z"
 }
