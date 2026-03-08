@@ -1,6 +1,9 @@
 {
-  "ANYCUBIC ASA 진분홍 (딥핑크)": {
-    "domestic": "http://naver.com",
-    "taobao": ""
-  }
+  "globalRegistry": {
+    "ANYCUBIC ASA 진분홍 (딥핑크)": {
+      "domestic": "http://naver.com",
+      "taobao": ""
+    }
+  },
+  "lastUpdated": "2026-03-08T22:44:15.374Z"
 }
