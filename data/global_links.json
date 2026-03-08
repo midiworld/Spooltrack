@@ -1,21 +1,14 @@
 {
-  "globalRegistry": {
-    "Amolen ABS #000000": {
-      "domestic": "http://naver.com",
-      "taobao": "http://naver.com"
-    },
-    "Bambu Lab PLA #008080": {
-      "domestic": "https://link.coupang.com/a/d0eklU",
-      "taobao": ""
-    },
-    "ColorFabb PEI #F5F5F5": {
-      "domestic": "https://link.coupang.com/a/d0eklU",
-      "taobao": ""
-    },
-    "Creality PA": {
-      "domestic": "https://link.coupang.com/a/d0eklU",
-      "taobao": ""
-    }
+  "Amolen ABS #000000": {
+    "domestic": "http://naver.com",
+    "taobao": "http://naver.com"
   },
-  "lastUpdated": "2026-03-08T12:16:39.381Z"
+  "Bambu Lab PLA #008080": {
+    "domestic": "https://link.coupang.com/a/d0eklU",
+    "taobao": ""
+  },
+  "ColorFabb PEI #F5F5F5": {
+    "domestic": "https://link.coupang.com/a/d0eklU",
+    "taobao": ""
+  }
 }
