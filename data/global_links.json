@@ -1,14 +1,17 @@
 {
-  "Amolen ABS #000000": {
-    "domestic": "http://naver.com",
-    "taobao": "http://naver.com"
+  "globalRegistry": {
+    "Amolen ABS #000000": {
+      "domestic": "http://naver.com",
+      "taobao": "http://naver.com"
+    },
+    "Bambu Lab PLA #008080": {
+      "domestic": "https://link.coupang.com/a/d0eklU",
+      "taobao": ""
+    },
+    "Duramic 3D PC 파랑 (블루)": {
+      "domestic": "https://link.coupang.com/a/d0eklU",
+      "taobao": ""
+    }
   },
-  "Bambu Lab PLA #008080": {
-    "domestic": "https://link.coupang.com/a/d0eklU",
-    "taobao": ""
-  },
-  "Duramic 3D PC 파랑 (블루)": {
-    "domestic": "https://link.coupang.com/a/d0eklU",
-    "taobao": ""
-  }
+  "lastUpdated": "2026-03-08T12:43:00.999Z"
 }
