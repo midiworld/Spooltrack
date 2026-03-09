@@ -1,9 +1,13 @@
 {
   "globalRegistry": {
+    "3DXTech ASA 블랙": {
+      "domestic": "http://naver.com",
+      "taobao": ""
+    },
     "Bambu Lab HIPS 블랙": {
       "domestic": "http://naver.com",
       "taobao": ""
     }
   },
-  "lastUpdated": "2026-03-09T04:04:33.142Z"
+  "lastUpdated": "2026-03-09T04:05:16.413Z"
 }
