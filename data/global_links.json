@@ -1,4 +1,9 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-03-09T04:14:09.649Z"
+  "globalRegistry": {
+    "Bambu Lab ABS 화이트그레이": {
+      "domestic": "http://naver.com",
+      "taobao": ""
+    }
+  },
+  "lastUpdated": "2026-03-09T04:35:06.316Z"
 }
