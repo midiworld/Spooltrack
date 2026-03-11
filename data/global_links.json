@@ -1,5 +1,9 @@
 {
   "globalRegistry": {
+    "3DXTech PETG 빨강": {
+      "domestic": "http://naver.com",
+      "taobao": ""
+    },
     "Atomic Filament Carbon Fiber 네이비": {
       "domestic": "http://naver.com",
       "taobao": "http://naver.com"
@@ -17,5 +21,5 @@
       "taobao": ""
     }
   },
-  "lastUpdated": "2026-03-11T11:56:04.786Z"
+  "lastUpdated": "2026-03-11T19:43:14.788Z"
 }
