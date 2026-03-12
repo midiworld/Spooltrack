@@ -1,11 +1,5 @@
 {
   "globalRegistry": {
-    "3DXTech Carbon Fiber 네이비": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T01:38:38.787Z"
-    },
     "3DXTech Glow in Dark 화이트": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -49,5 +43,5 @@
       "updatedAt": "2026-03-12T01:24:50.348Z"
     }
   },
-  "lastUpdated": "2026-03-12T01:38:51.769Z"
+  "lastUpdated": "2026-03-12T01:38:55.665Z"
 }
