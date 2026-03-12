@@ -29,14 +29,21 @@
       "taobao": "",
       "status": "popular",
       "updatedAt": "2026-03-12T10:20:53.417Z"
+    },
+    "Kim": {
+      "domestic": "",
+      "taobao": "",
+      "status": "normal",
+      "updatedAt": "2026-03-12T10:25:35.319Z"
     }
   },
-  "lastUpdated": "2026-03-12T10:20:53.417Z",
+  "lastUpdated": "2026-03-12T10:25:35.319Z",
   "brands": [
     "12345",
     "888"
   ],
   "materials": [
-    "12345"
+    "12345",
+    "Kim"
   ]
 }
