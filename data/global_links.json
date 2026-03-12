@@ -1,11 +1,4 @@
 {
-  "globalRegistry": {
-    "3DXTech HIPS 화이트": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T01:39:20.547Z"
-    }
-  },
-  "lastUpdated": "2026-03-12T01:40:04.581Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-03-12T01:40:07.036Z"
 }
