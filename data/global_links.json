@@ -41,16 +41,24 @@
       "taobao": "",
       "status": "popular",
       "updatedAt": "2026-03-12T10:26:23.030Z"
+    },
+    "Bambu Lab kimkim 라이트그레이": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "updatedAt": "2026-03-12T10:28:32.277Z"
     }
   },
-  "lastUpdated": "2026-03-12T10:26:23.030Z",
+  "lastUpdated": "2026-03-12T10:28:32.277Z",
   "brands": [
     "12345",
     "3DXTech",
-    "888"
+    "888",
+    "Bambu Lab"
   ],
   "materials": [
     "12345",
-    "Kim"
+    "Kim",
+    "kimkim"
   ]
 }
