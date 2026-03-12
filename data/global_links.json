@@ -21,8 +21,8 @@
     "3DXTech Marble 화이트그레이": {
       "domestic": "http://naver.com",
       "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T01:32:40.773Z"
+      "status": "normal",
+      "updatedAt": "2026-03-12T01:33:01.667Z"
     },
     "3DXTech PETG 빨강": {
       "domestic": "http://naver.com",
@@ -37,5 +37,5 @@
       "updatedAt": "2026-03-12T01:24:50.348Z"
     }
   },
-  "lastUpdated": "2026-03-12T01:32:59.001Z"
+  "lastUpdated": "2026-03-12T01:33:01.667Z"
 }
