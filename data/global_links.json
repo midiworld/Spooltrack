@@ -35,11 +35,18 @@
       "taobao": "",
       "status": "normal",
       "updatedAt": "2026-03-12T10:25:35.319Z"
+    },
+    "3DXTech Kim 실버": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "updatedAt": "2026-03-12T10:26:23.030Z"
     }
   },
-  "lastUpdated": "2026-03-12T10:25:35.319Z",
+  "lastUpdated": "2026-03-12T10:26:23.030Z",
   "brands": [
     "12345",
+    "3DXTech",
     "888"
   ],
   "materials": [
