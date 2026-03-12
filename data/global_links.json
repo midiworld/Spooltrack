@@ -1,5 +1,11 @@
 {
   "globalRegistry": {
+    "12345": {
+      "domestic": "",
+      "taobao": "",
+      "status": "normal",
+      "updatedAt": "2026-03-12T10:20:26.611Z"
+    },
     "3DXTech ABS 화이트": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -19,8 +25,9 @@
       "updatedAt": "2026-03-12T08:10:42.998Z"
     }
   },
-  "lastUpdated": "2026-03-12T09:40:58.054Z",
+  "lastUpdated": "2026-03-12T10:20:26.611Z",
   "brands": [
+    "12345",
     "888"
   ],
   "materials": [
