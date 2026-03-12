@@ -27,8 +27,8 @@
     "3DXTech PETG 빨강": {
       "domestic": "http://naver.com",
       "taobao": "",
-      "status": "normal",
-      "updatedAt": "2026-03-12T01:24:29.050Z"
+      "status": "popular",
+      "updatedAt": "2026-03-12T01:39:37.652Z"
     },
     "3DXTech PLA 화이트": {
       "domestic": "http://naver.com",
@@ -37,5 +37,5 @@
       "updatedAt": "2026-03-12T01:39:34.577Z"
     }
   },
-  "lastUpdated": "2026-03-12T01:39:34.577Z"
+  "lastUpdated": "2026-03-12T01:39:37.652Z"
 }
