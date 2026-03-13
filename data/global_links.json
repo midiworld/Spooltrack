@@ -6,12 +6,6 @@
       "status": "normal",
       "updatedAt": "2026-03-12T10:20:26.611Z"
     },
-    "12345 12345": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T10:20:53.417Z"
-    },
     "3DXTech ABS 화이트": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -48,5 +42,5 @@
       "kimkim"
     ]
   },
-  "lastUpdated": "2026-03-13T04:49:54.310Z"
+  "lastUpdated": "2026-03-13T04:50:00.550Z"
 }
