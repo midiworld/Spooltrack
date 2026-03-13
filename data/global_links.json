@@ -6,35 +6,17 @@
       "status": "normal",
       "updatedAt": "2026-03-12T10:20:26.611Z"
     },
-    "3DXTech ABS 화이트": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T02:12:43.761Z"
-    },
-    "888 12345 연회색": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T09:40:58.054Z"
-    },
-    "890 ABS 화이트": {
-      "domestic": "http://baver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-12T08:10:42.998Z"
-    },
     "12345 12345": {
       "domestic": "http://naver.com",
       "taobao": "",
       "status": "popular",
       "updatedAt": "2026-03-12T10:20:53.417Z"
     },
-    "Kim": {
-      "domestic": "",
+    "3DXTech ABS 화이트": {
+      "domestic": "http://naver.com",
       "taobao": "",
-      "status": "normal",
-      "updatedAt": "2026-03-12T10:25:35.319Z"
+      "status": "popular",
+      "updatedAt": "2026-03-12T02:12:43.761Z"
     },
     "3DXTech Kim 실버": {
       "domestic": "http://naver.com",
@@ -42,23 +24,35 @@
       "status": "popular",
       "updatedAt": "2026-03-12T10:26:23.030Z"
     },
+    "890 ABS 화이트": {
+      "domestic": "http://baver.com",
+      "taobao": "",
+      "status": "popular",
+      "updatedAt": "2026-03-12T08:10:42.998Z"
+    },
     "Bambu Lab kimkim 라이트그레이": {
       "domestic": "http://naver.com",
       "taobao": "",
       "status": "popular",
       "updatedAt": "2026-03-12T10:28:32.277Z"
-    }
+    },
+    "Kim": {
+      "domestic": "",
+      "taobao": "",
+      "status": "normal",
+      "updatedAt": "2026-03-12T10:25:35.319Z"
+    },
+    "brands": [
+      "12345",
+      "3DXTech",
+      "888",
+      "Bambu Lab"
+    ],
+    "materials": [
+      "12345",
+      "Kim",
+      "kimkim"
+    ]
   },
-  "lastUpdated": "2026-03-12T10:28:32.277Z",
-  "brands": [
-    "12345",
-    "3DXTech",
-    "888",
-    "Bambu Lab"
-  ],
-  "materials": [
-    "12345",
-    "Kim",
-    "kimkim"
-  ]
+  "lastUpdated": "2026-03-13T04:49:47.957Z"
 }
