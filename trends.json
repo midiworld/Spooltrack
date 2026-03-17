@@ -1,13 +1,9 @@
 {
   "rankings": [
     {
-      "value": "CaiLab ABS 실버",
-      "count": 1000
-    },
-    {
       "value": "Creality ASA 회색",
-      "count": 999
+      "count": 1000
     }
   ],
-  "timestamp": 1773725489381
+  "timestamp": 1773734585094
 }
