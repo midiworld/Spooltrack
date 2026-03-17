@@ -1,12 +1,1 @@
-{
-  "PartnerName1": {
-    "domestic": "https://smartstore.naver.com/...",
-    "taobao": "https://item.taobao.com/...",
-    "status": "partner",
-    "updatedAt": "2023-10-27T10:00:00Z"
-  },
-  "PartnerName2": {
-    "domestic": "https://coupang.com/...",
-    "status": "partner"
-  }
-}
+{}
