@@ -1,11 +1,5 @@
 {
   "globalRegistry": {
-    "Bambu Lab ABS 라이트그레이": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-17T05:28:49.850Z"
-    },
     "CaiLab ABS 실버": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -19,5 +13,5 @@
       "updatedAt": "2026-03-17T05:14:50.667Z"
     }
   },
-  "lastUpdated": "2026-03-17T05:28:49.850Z"
+  "lastUpdated": "2026-03-17T05:31:26.717Z"
 }
