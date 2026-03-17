@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "CaiLab ABS 실버": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-17T08:23:24.683Z"
-    }
-  },
-  "lastUpdated": "2026-03-17T08:24:31.554Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-03-17T08:24:38.615Z"
 }
