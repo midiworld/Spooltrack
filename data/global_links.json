@@ -1,4 +1,11 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-03-17T04:59:07.556Z"
+  "globalRegistry": {
+    "Bambu Lab ABS": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "updatedAt": "2026-03-17T05:00:55.858Z"
+    }
+  },
+  "lastUpdated": "2026-03-17T05:00:55.858Z"
 }
