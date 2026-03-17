@@ -3,8 +3,9 @@
     "CaiLab ABS 실버": {
       "domestic": "http://naver.com",
       "taobao": "",
-      "status": "hidden",
-      "updatedAt": "2026-03-17T08:03:01.715Z"
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-03-17T08:23:24.683Z"
     },
     "Creality ASA 회색": {
       "domestic": "http://naver.com",
@@ -13,5 +14,5 @@
       "updatedAt": "2026-03-17T08:07:54.784Z"
     }
   },
-  "lastUpdated": "2026-03-17T08:07:54.784Z"
+  "lastUpdated": "2026-03-17T08:23:24.683Z"
 }
