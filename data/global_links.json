@@ -1,11 +1,5 @@
 {
   "globalRegistry": {
-    "Bambu Lab ABS": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "updatedAt": "2026-03-17T05:00:55.858Z"
-    },
     "CaiLab ABS 실버": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -19,5 +13,5 @@
       "updatedAt": "2026-03-17T05:14:50.667Z"
     }
   },
-  "lastUpdated": "2026-03-17T05:14:50.668Z"
+  "lastUpdated": "2026-03-17T05:19:12.402Z"
 }
