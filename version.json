@@ -1,8 +1,7 @@
 {
-  "Bambu Lab ABS": {
-    "domestic": "http://naver.com",
-    "taobao": "",
-    "status": "popular",
-    "updatedAt": "2026-03-17T05:00:55.858Z"
-  }
+  "latestVersionCode": 10,
+  "latestVersionName": "1.0.0",
+  "updateMessage": "📦 새로운 기능이 추가되었습니다!\n- 파트너 링크 자동 업데이트 기능 도입\n- 인기 검색어 실시간 동기화 개선\n- 시스템 안정성 강화",
+  "storeUrl": "https://github.com/midiworld/Spooltrack/releases",
+  "forceUpdate": false
 }
