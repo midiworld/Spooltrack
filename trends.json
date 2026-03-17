@@ -1,17 +1,13 @@
 {
   "rankings": [
     {
-      "value": "Bambu Lab ABS 라이트그레이",
+      "value": "CaiLab ABS 실버",
       "count": 1000
     },
     {
-      "value": "CaiLab ABS 실버",
-      "count": 999
-    },
-    {
       "value": "Creality ASA 회색",
-      "count": 998
+      "count": 999
     }
   ],
-  "timestamp": 1773725332918
+  "timestamp": 1773725489381
 }
