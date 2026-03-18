@@ -62,7 +62,14 @@
       "status": "popular",
       "isPartner": true,
       "updatedAt": "2026-03-18T21:52:02.099Z"
+    },
+    "Hatchbox HIPS": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-03-18T22:32:01.247Z"
     }
   },
-  "lastUpdated": "2026-03-18T22:31:37.183Z"
+  "lastUpdated": "2026-03-18T22:32:01.247Z"
 }
