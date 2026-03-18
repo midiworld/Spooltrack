@@ -1,13 +1,17 @@
 {
   "rankings": [
     {
-      "value": "Bambu Lab ABS 그레이",
+      "value": "ANYCUBIC ABS 회색",
       "count": 1000
     },
     {
-      "value": "Bambu Lab ASA 연회색",
+      "value": "Bambu Lab ABS 그레이",
       "count": 999
+    },
+    {
+      "value": "Bambu Lab ASA 연회색",
+      "count": 998
     }
   ],
-  "timestamp": 1773870553639
+  "timestamp": 1773870574938
 }
