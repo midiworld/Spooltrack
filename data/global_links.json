@@ -7,6 +7,13 @@
       "isPartner": true,
       "updatedAt": "2026-03-18T21:49:32.375Z"
     },
+    "Amolen Carbon Fiber 블랙": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-03-18T21:49:50.091Z"
+    },
     "Bambu Lab ABS 그레이": {
       "domestic": "http://naver.com",
       "taobao": "http://naver.com",
@@ -22,5 +29,5 @@
       "updatedAt": "2026-03-18T21:49:11.179Z"
     }
   },
-  "lastUpdated": "2026-03-18T21:49:32.375Z"
+  "lastUpdated": "2026-03-18T21:49:50.092Z"
 }
