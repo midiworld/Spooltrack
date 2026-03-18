@@ -1,4 +1,9 @@
 {
-  "rankings": [],
-  "timestamp": 1773816255549
+  "rankings": [
+    {
+      "value": "Bambu Lab ABS 그레이",
+      "count": 1000
+    }
+  ],
+  "timestamp": 1773870433115
 }
