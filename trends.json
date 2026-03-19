@@ -1,45 +1,41 @@
 {
   "rankings": [
     {
-      "value": "Amolen Carbon Fiber 블랙",
+      "value": "Atomic Filament HIPS 레드",
       "count": 1000
     },
     {
-      "value": "Atomic Filament HIPS 레드",
+      "value": "Bambu Lab ABS 그레이",
       "count": 999
     },
     {
-      "value": "Bambu Lab ABS 그레이",
+      "value": "Bambu Lab ASA 연회색",
       "count": 998
     },
     {
-      "value": "Bambu Lab ASA 연회색",
+      "value": "CaiLab Marble 마젠타",
       "count": 997
     },
     {
-      "value": "CaiLab Marble 마젠타",
+      "value": "Creality PA 마젠타",
       "count": 996
     },
     {
-      "value": "Creality PA 마젠타",
+      "value": "Duramic 3D PA (Nylon) 마젠타",
       "count": 995
     },
     {
-      "value": "Duramic 3D PA (Nylon) 마젠타",
+      "value": "Eryone Marble 마젠타",
       "count": 994
     },
     {
-      "value": "Eryone Marble 마젠타",
+      "value": "Fillamentum Support 연두",
       "count": 993
     },
     {
-      "value": "Fillamentum Support 연두",
-      "count": 992
-    },
-    {
       "value": "Hatchbox HIPS",
-      "count": 991
+      "count": 992
     }
   ],
-  "timestamp": 1773873123804
+  "timestamp": 1773892570167
 }
