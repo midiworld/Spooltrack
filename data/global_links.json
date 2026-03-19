@@ -1,12 +1,5 @@
 {
   "globalRegistry": {
-    "Amolen Carbon Fiber 블랙": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-18T21:49:50.091Z"
-    },
     "Atomic Filament HIPS 레드": {
       "domestic": "",
       "taobao": "http://naver.com",
@@ -71,5 +64,5 @@
       "updatedAt": "2026-03-18T22:32:01.247Z"
     }
   },
-  "lastUpdated": "2026-03-18T22:32:01.247Z"
+  "lastUpdated": "2026-03-19T03:56:07.096Z"
 }
