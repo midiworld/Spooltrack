@@ -1,12 +1,5 @@
 {
   "globalRegistry": {
-    "Atomic Filament HIPS 레드": {
-      "domestic": "",
-      "taobao": "http://naver.com",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-18T21:50:13.032Z"
-    },
     "Bambu Lab ABS 그레이": {
       "domestic": "http://naver.com",
       "taobao": "http://naver.com",
@@ -71,5 +64,5 @@
       "updatedAt": "2026-03-18T22:32:01.247Z"
     }
   },
-  "lastUpdated": "2026-03-21T03:40:23.847Z"
+  "lastUpdated": "2026-03-24T02:45:11.963Z"
 }
