@@ -57,78 +57,78 @@
   ],
   "materialHierarchy": {
     "PLA": [
+      "Conductive PLA",
+      "CR-PLA",
+      "CR-Silk",
+      "High Speed PLA",
+      "Hyper PLA",
+      "K5M",
+      "Marble PLA",
+      "Metal PLA",
       "PLA",
-      "PLA+",
       "PLA Basic",
       "PLA Lite",
       "PLA Matte",
       "PLA Silk",
-      "PLA-CF",
-      "Tough PLA",
-      "PLA-ST",
-      "Wood PLA",
-      "Metal PLA",
-      "Marble PLA",
-      "Rainbow PLA",
-      "Conductive PLA",
-      "Translucent PLA",
-      "High Speed PLA",
       "PLA Tough+",
-      "K5M",
-      "CR-Silk",
+      "PLA-CF",
+      "PLA-ST",
       "PLA-UV",
-      "CR-PLA",
-      "Hyper PLA",
-      "Soleyin Ultra PLA"
+      "PLA+",
+      "Rainbow PLA",
+      "Soleyin Ultra PLA",
+      "Tough PLA",
+      "Translucent PLA",
+      "Wood PLA"
     ],
     "PETG": [
+      "CR-PETG",
+      "mix color",
       "PETG",
-      "PETG Pro",
       "PETG HF",
+      "PETG Pro",
       "PETG-CF",
       "PETG-GF",
-      "Translucent PETG",
-      "CR-PETG",
-      "mix color"
+      "Translucent PETG"
     ],
     "TPU / TPE (Flex)": [
-      "TPU",
+      "CR-TPU",
       "TPE",
+      "TPU",
+      "TPU 85A",
+      "TPU 90A",
       "TPU 95A",
       "TPU 98A",
-      "TPU 90A",
-      "TPU 85A",
-      "TPU-for-AMS",
-      "CR-TPU"
+      "TPU-for-AMS"
     ],
     "ABS": [
       "ABS",
-      "ABS+",
       "ABS-CF",
       "ABS-GF",
-      "High Speed ABS",
-      "Flame Retardant ABS"
+      "ABS+",
+      "Flame Retardant ABS",
+      "High Speed ABS"
     ],
     "ASA": [
       "ASA",
       "ASA-CF"
     ],
     "PA (Nylon)": [
-      "PA",
       "Nylon",
-      "PA6",
-      "PA12",
+      "PA",
       "PA-CF",
       "PA-GF",
+      "PA12",
+      "PA6",
       "PAHT-CF"
     ],
     "Support": [
-      "Support",
-      "PVA",
+      "Breakaway Support",
       "BVOH",
       "HIPS",
-      "Breakaway Support"
+      "PVA",
+      "Support"
     ]
   },
-  "lastUpdated": "2026-03-24T03:13:05.896Z"
+  "lastUpdated": "2026-03-24T04:57:52.898Z"
 }
