@@ -61,5 +61,12 @@
     "status": "popular",
     "isPartner": true,
     "updatedAt": "2026-03-18T22:32:01.247Z"
+  },
+  "ABS ABS-CF 라임": {
+    "domestic": "http://naver.com",
+    "taobao": "",
+    "status": "popular",
+    "isPartner": true,
+    "updatedAt": "2026-03-24T05:01:14.630Z"
   }
 }
