@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "Creality PA 마젠타": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-25T09:52:59.656Z"
-    }
-  },
-  "lastUpdated": "2026-03-25T10:20:49.096Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-03-25T10:20:54.628Z"
 }
