@@ -14,13 +14,6 @@
       "isPartner": true,
       "updatedAt": "2026-03-25T08:01:35.445Z"
     },
-    "CaiLab Marble 마젠타": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-24T22:00:15.232Z"
-    },
     "Creality PA 마젠타": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -50,5 +43,5 @@
       "updatedAt": "2026-03-25T09:59:48.643Z"
     }
   },
-  "lastUpdated": "2026-03-25T10:18:06.237Z"
+  "lastUpdated": "2026-03-25T10:18:14.166Z"
 }
