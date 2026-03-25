@@ -1,17 +1,13 @@
 {
   "rankings": [
     {
-      "value": "3DXTech ABS 골드",
+      "value": "3DXTech PETG 빨강",
       "count": 1000
     },
     {
-      "value": "3DXTech PETG 빨강",
-      "count": 999
-    },
-    {
       "value": "Bambu Lab ABS 네이비",
-      "count": 998
+      "count": 999
     }
   ],
-  "timestamp": 1774467617967
+  "timestamp": 1774468821593
 }
