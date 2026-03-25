@@ -1,6 +1,7 @@
 {
   "brands": [
     "3DXTech",
+    "Amazon Basics",
     "Amolen",
     "ANYCUBIC",
     "Atomic Filament",
@@ -9,11 +10,15 @@
     "ColorFabb",
     "Creality",
     "Duramic 3D",
+    "Elegoo",
     "Eryone",
     "eSUN",
+    "Extrudr",
     "Fiberlogy",
     "Fillamentum",
     "Flashforge",
+    "FormFutura",
+    "Geeeetech",
     "Gizmo Dorks",
     "Hatchbox",
     "Inland",
@@ -26,8 +31,10 @@
     "Proto-pasta",
     "Prusament",
     "R3D",
+    "Sainsmart",
     "Sunlu",
-    "Tideboom"
+    "Tideboom",
+    "Voxelab"
   ],
   "materials": [
     "ABS",
@@ -38,6 +45,7 @@
     "Marble",
     "PA",
     "PA (Nylon)",
+    "PC",
     "PCL",
     "PEI",
     "PET",
@@ -176,5 +184,5 @@
     "#E6E6FA",
     "#6F42C1"
   ],
-  "lastUpdated": "2026-03-25T01:27:36.945Z"
+  "lastUpdated": "2026-03-25T09:52:06.616Z"
 }
