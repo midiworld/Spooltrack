@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "3DXTech ABS 골드": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-25T19:16:31.497Z"
-    }
-  },
-  "lastUpdated": "2026-03-25T19:16:31.497Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-03-25T19:26:47.767Z"
 }
