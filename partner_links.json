@@ -55,11 +55,18 @@
     "isPartner": true,
     "updatedAt": "2026-03-25T09:52:52.384Z"
   },
-  "3DXTech ABS 매트 블랙": {
+  "Jayo PP 마젠타": {
     "domestic": "http://naver.com",
     "taobao": "",
     "status": "popular",
     "isPartner": true,
-    "updatedAt": "2026-03-25T09:58:10.152Z"
+    "updatedAt": "2026-03-25T09:59:48.643Z"
+  },
+  "Flashforge ABS 골드": {
+    "domestic": "http://naver.com",
+    "taobao": "",
+    "status": "popular",
+    "isPartner": true,
+    "updatedAt": "2026-03-25T10:15:45.552Z"
   }
 }
