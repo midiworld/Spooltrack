@@ -7,13 +7,6 @@
       "isPartner": true,
       "updatedAt": "2026-03-25T09:52:05.306Z"
     },
-    "Bambu Lab ASA 연회색": {
-      "domestic": "http://naver.com",
-      "taobao": "http://naver.com",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-25T08:01:35.445Z"
-    },
     "Creality PA 마젠타": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -43,5 +36,5 @@
       "updatedAt": "2026-03-25T09:59:48.643Z"
     }
   },
-  "lastUpdated": "2026-03-25T10:18:14.166Z"
+  "lastUpdated": "2026-03-25T10:18:21.847Z"
 }
