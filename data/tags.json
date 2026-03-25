@@ -49,8 +49,7 @@
     "PVB",
     "Silk",
     "Support",
-    "TPU / TPE (Flex)",
-    "Wood"
+    "TPU / TPE (Flex)"
   ],
   "materialHierarchy": {
     "PLA": [
@@ -177,5 +176,5 @@
     "#E6E6FA",
     "#6F42C1"
   ],
-  "lastUpdated": "2026-03-24T23:12:24.143Z"
+  "lastUpdated": "2026-03-25T01:27:36.945Z"
 }
