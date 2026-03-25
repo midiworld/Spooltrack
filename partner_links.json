@@ -6,20 +6,6 @@
     "isPartner": true,
     "updatedAt": "2026-03-25T09:52:05.306Z"
   },
-  "Bambu Lab ASA 연회색": {
-    "domestic": "http://naver.com",
-    "taobao": "http://naver.com",
-    "status": "popular",
-    "isPartner": true,
-    "updatedAt": "2026-03-25T08:01:35.445Z"
-  },
-  "CaiLab Marble 마젠타": {
-    "domestic": "http://naver.com",
-    "taobao": "",
-    "status": "popular",
-    "isPartner": true,
-    "updatedAt": "2026-03-24T22:00:15.232Z"
-  },
   "Creality PA 마젠타": {
     "domestic": "http://naver.com",
     "taobao": "",
@@ -27,25 +13,11 @@
     "isPartner": true,
     "updatedAt": "2026-03-25T09:52:59.656Z"
   },
-  "Creality PCL 회색": {
-    "domestic": "http://naver.com",
-    "taobao": "",
-    "status": "popular",
-    "isPartner": true,
-    "updatedAt": "2026-03-21T03:40:23.847Z"
-  },
   "Duramic 3D PA (Nylon) 마젠타": {
     "domestic": "http://naver.com",
     "taobao": "",
     "status": "popular",
     "isPartner": true,
     "updatedAt": "2026-03-18T21:51:18.773Z"
-  },
-  "Jayo PP 마젠타": {
-    "domestic": "http://naver.com",
-    "taobao": "",
-    "status": "popular",
-    "isPartner": true,
-    "updatedAt": "2026-03-25T09:59:48.643Z"
   }
 }
