@@ -32,9 +32,9 @@
       "domestic": "http://naver.com",
       "taobao": "",
       "status": "popular",
-      "isPartner": true,
+      "isPartner": false,
       "updatedAt": "2026-03-25T09:59:48.643Z"
     }
   },
-  "lastUpdated": "2026-03-25T10:18:21.847Z"
+  "lastUpdated": "2026-03-25T10:18:47.240Z"
 }
