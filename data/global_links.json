@@ -1,12 +1,5 @@
 {
   "globalRegistry": {
-    "Bambu Lab ABS 그레이": {
-      "domestic": "http://naver.com",
-      "taobao": "http://naver.com",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-25T09:52:05.306Z"
-    },
     "Creality PA 마젠타": {
       "domestic": "http://naver.com",
       "taobao": "",
@@ -15,5 +8,5 @@
       "updatedAt": "2026-03-25T09:52:59.656Z"
     }
   },
-  "lastUpdated": "2026-03-25T10:19:21.443Z"
+  "lastUpdated": "2026-03-25T10:20:49.096Z"
 }
