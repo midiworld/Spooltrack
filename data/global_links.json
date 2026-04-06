@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "ANYCUBIC ABS 민트": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-04-06T08:45:55.382Z"
-    }
-  },
-  "lastUpdated": "2026-04-06T08:45:55.382Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-04-06T08:52:31.777Z"
 }
