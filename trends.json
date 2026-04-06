@@ -1,4 +1,9 @@
 {
-  "rankings": [],
-  "timestamp": 1740701048473
+  "rankings": [
+    {
+      "value": "ANYCUBIC ABS 민트",
+      "count": 1000
+    }
+  ],
+  "timestamp": 1775465051038
 }
