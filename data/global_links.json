@@ -7,13 +7,6 @@
       "isPartner": true,
       "updatedAt": "2026-03-25T20:00:20.350Z"
     },
-    "Bambu Lab ABS 네이비": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-03-25T19:40:16.329Z"
-    },
     "Jayo PP 마젠타": {
       "domestic": "http://naver.com",
       "taobao": "http://naver.com",
@@ -29,5 +22,5 @@
       "updatedAt": "2026-04-01T17:49:37.564Z"
     }
   },
-  "lastUpdated": "2026-04-06T06:00:48.730Z"
+  "lastUpdated": "2026-04-06T06:00:54.471Z"
 }
