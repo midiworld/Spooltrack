@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-10T04:28:33.642Z"
+  "globalRegistry": {
+    "ANYCUBIC HIPS 베이지": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-10T05:10:41.976Z"
+    }
+  },
+  "lastUpdated": "2026-04-10T05:10:45.069Z"
 }
