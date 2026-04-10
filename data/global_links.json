@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "ANYCUBIC ABS 구리": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-04-10T04:26:04.093Z"
-    }
-  },
-  "lastUpdated": "2026-04-10T04:26:04.093Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-04-10T04:26:35.675Z"
 }
