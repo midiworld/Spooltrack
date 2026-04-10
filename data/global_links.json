@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-10T04:26:35.675Z"
+  "globalRegistry": {
+    "Amazon Basics ABS 골드": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-10T04:28:12.657Z"
+    }
+  },
+  "lastUpdated": "2026-04-10T04:28:12.657Z"
 }
