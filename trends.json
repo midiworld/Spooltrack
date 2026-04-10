@@ -1,4 +1,9 @@
 {
-  "rankings": [],
-  "timestamp": 1740639943445
+  "rankings": [
+    {
+      "value": "ANYCUBIC ABS 구리",
+      "count": 1000
+    }
+  ],
+  "timestamp": 1775795167616
 }
