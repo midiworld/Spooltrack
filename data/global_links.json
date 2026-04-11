@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-11T23:38:53.791Z"
+  "globalRegistry": {
+    "Voxelab ABS 골드": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-11T23:39:48.998Z"
+    }
+  },
+  "lastUpdated": "2026-04-11T23:39:48.998Z"
 }
