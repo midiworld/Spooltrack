@@ -1,4 +1,9 @@
 {
-  "rankings": [],
-  "timestamp": 1775950734819
+  "rankings": [
+    {
+      "value": "Voxelab ABS 골드",
+      "count": 1000
+    }
+  ],
+  "timestamp": 1775950894765
 }
