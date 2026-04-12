@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "Inland ABS 골드": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-04-12T00:12:12.302Z"
-    }
-  },
-  "lastUpdated": "2026-04-12T00:12:12.302Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-04-12T00:12:17.883Z"
 }
