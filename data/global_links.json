@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-12T00:15:40.943Z"
+  "globalRegistry": {
+    "Elegoo ABS 골드": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-12T00:23:41.670Z"
+    }
+  },
+  "lastUpdated": "2026-04-12T00:23:41.670Z"
 }
