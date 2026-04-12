@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-12T13:15:31.145Z"
+  "globalRegistry": {
+    "Proto-pasta PETG 핑크": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-12T19:50:56.396Z"
+    }
+  },
+  "lastUpdated": "2026-04-12T19:50:56.396Z"
 }
