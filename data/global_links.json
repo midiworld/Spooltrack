@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "Geeeetech ABS 골드": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-04-12T00:30:50.945Z"
-    }
-  },
-  "lastUpdated": "2026-04-12T00:30:50.945Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-04-12T00:31:14.535Z"
 }
