@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "Jayo ABS 피치": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "popular",
-      "isPartner": true,
-      "updatedAt": "2026-04-12T00:15:11.349Z"
-    }
-  },
-  "lastUpdated": "2026-04-12T00:15:11.349Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-04-12T00:15:40.943Z"
 }
