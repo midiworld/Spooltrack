@@ -1,12 +1,4 @@
 {
-  "globalRegistry": {
-    "3DXTech Carbon Fiber 레드": {
-      "domestic": "http://naver.com",
-      "taobao": "",
-      "status": "hidden",
-      "isPartner": true,
-      "updatedAt": "2026-04-12T01:13:01.625Z"
-    }
-  },
-  "lastUpdated": "2026-04-12T01:13:22.158Z"
+  "globalRegistry": {},
+  "lastUpdated": "2026-04-12T04:07:37.892Z"
 }
