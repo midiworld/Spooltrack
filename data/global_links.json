@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-12T00:31:14.535Z"
+  "globalRegistry": {
+    "Geeeetech PA 라벤더": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-12T00:43:39.891Z"
+    }
+  },
+  "lastUpdated": "2026-04-12T00:43:39.891Z"
 }
