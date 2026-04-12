@@ -1,4 +1,12 @@
 {
-  "globalRegistry": {},
-  "lastUpdated": "2026-04-12T04:07:37.892Z"
+  "globalRegistry": {
+    "Jayo PETG 화이트": {
+      "domestic": "http://naver.com",
+      "taobao": "",
+      "status": "popular",
+      "isPartner": true,
+      "updatedAt": "2026-04-12T10:43:55.369Z"
+    }
+  },
+  "lastUpdated": "2026-04-12T10:43:55.369Z"
 }
