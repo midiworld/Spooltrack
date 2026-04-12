@@ -1,4 +1,9 @@
 {
-  "rankings": [],
-  "timestamp": 1775990807400
+  "rankings": [
+    {
+      "value": "Atomic Filament PETG 라벤더",
+      "count": 1000
+    }
+  ],
+  "timestamp": 1775992062840
 }
